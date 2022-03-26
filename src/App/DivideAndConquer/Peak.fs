@@ -1,4 +1,4 @@
-namespace DynamicProgramming
+namespace DivideAndConquer
 
 module Peak =
     let rec peak (arrayOfNumbers: int []) =
