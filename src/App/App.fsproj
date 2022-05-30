@@ -6,8 +6,11 @@
   <ItemGroup>
     <Compile Include="CellularAutomata/Game.fs" />
     <Compile Include="CellularAutomata/EntryPoint.fs" />
+    <Compile Include="DataStructures\Trees.fs" />
     <Compile Include="DivideAndConquer/Peak.fs" />
     <Compile Include="DynamicProgramming/Power.fs" />
+    <Compile Include="Knapsack/Naive.fs" />
+    <Compile Include="Trees\Trees.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
